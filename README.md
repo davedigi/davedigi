@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">a web application developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I am currently delving into vanilla js and typescript for the development of a **frontend framework**
 
 - 👨‍💻 Some of my projects are available at [https://wimdeveloper.vercel.app](https://wimdeveloper.vercel.app)
 
