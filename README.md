@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">a web application developer</h3>
 
-- 🌱 I am currently delving into vanilla js and typescript for the development of a **frontend framework**
+- 🌱 I am currently taking a course with a teacher to converse and work with english speaking people
+
+- :computer: Last work was in a team that delved into vanilla js and typescript for the development of a **frontend framework** from scratch
 
 - 👨‍💻 Some of my projects are available at [https://wimdeveloper.vercel.app](https://wimdeveloper.vercel.app)
 
