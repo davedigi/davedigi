@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">a web application developer</h3>
 
-- 🌱 I am currently taking a course with a teacher to converse and work with english speaking people
-- 📄 I'm currently collaborating with lektor.it, a leading company on a national level for applications on smartphones in the field of meter reading, data collection on the territory and postal delivery.
+- 📄 In the last work i collaborated with lektor.it, a leading company on a national level for applications on smartphones in the field of meter reading, data collection on the territory and postal delivery.
 
-- :computer: Last work was in a team that delved into vanilla js and typescript for the development of a **frontend framework** from scratch in Fintech field (ATM)
+- :computer: Another recent work was in a team that delved into vanilla js and typescript for the development of a **frontend framework** from scratch in Fintech field (ATM)
 
 - 👨‍💻 Some of my projects are available at [https://wimdeveloper.vercel.app](https://wimdeveloper.vercel.app)
 
